@@ -1,0 +1,7 @@
+pymem
+dnspython
+cryptography
+colorama
+aiohttp
+matplotlib
+pillow
